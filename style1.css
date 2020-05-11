@@ -1,0 +1,76 @@
+h1{
+    color: purple;
+    font-family: "Marko One";
+    font-size: 1.7rem;
+    text-shadow: .2em .2em silver;
+}
+h2{
+    color:orangered;
+    font-family: "Duru Sans";
+    font-size: 0.875rem;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+dt{
+    color:#FF6347;
+    font-family: "Duru Sans";
+}
+strong{
+    color: #FF0000;
+}
+
+p{
+    font-family: "Verdana";
+    color:grey;
+    font-size: 0.875rem;
+}
+span.label{
+    font-family: "Verdana";
+    color:#808080;
+    font-size: 0.875rem;
+    font-weight: bold;
+    
+}
+
+span{
+    font-family: "Georgia";
+    color:grey;
+    font-size: 0.875rem;
+}
+
+p.warning{
+    
+    color:pink;
+}
+
+#div1{
+    text-align: center; 
+}
+
+ul{
+    list-style: none;
+}
+
+dd{
+    color : grey;
+}
+
+li.c1{
+    list-style: lower-roman;
+}
+
+li.c2{
+    list-style: circle;
+}
+
+li.c3{
+    list-style: disc;
+    list-style-position: inside;
+}
+
+li.c4{
+    list-style-position: outside;
+    font-size: 2rem;
+    list-style-image:url(images/bull.PNG);
+}
